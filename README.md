@@ -1,11 +1,11 @@
 # SAT Recruitment
 
-El objetivo de esta prueba es refactorizar el código de este proyecto.
-Se puede realizar cualquier cambio que considere necesario en el código y en los test.
+The goal of this test is to refactor the code of this project. 
+You can make any changes you consider necessary in the code and in the tests.
 
 
-## Requisitos 
+## Requirements
 
-- Todos los test deben pasar.
-- El código debe seguir los principios de la programación orientada a objetos (SOLID, DRY, etc...).
-- El código resultante debe ser mantenible y extensible.
+- All tests must pass.
+- The code must follow the principles of object-oriented programming (SOLID, DRY, etc...).
+- The resulting code must be maintainable and extensible.
